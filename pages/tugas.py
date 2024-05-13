@@ -1,6 +1,8 @@
 import streamlit as st
 import cv2
 import numpy as np
+import sys
+print(sys.path)
 
 def rgb_to_hsv(image):
     hsv_image = cv2.cvtColor(image, cv2.COLOR_RGB2HSV)
