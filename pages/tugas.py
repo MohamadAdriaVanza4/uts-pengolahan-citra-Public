@@ -112,7 +112,7 @@ def main():
                 st.image(cropped_image, caption="Cropped Image", use_column_width=True)
 
             elif selected_option == "Remove Background":
-                background_removed_image = remove_background(image)
+                background_removed_image = remove_background(image) # type: ignore
                 st.image(background_removed_image, caption="Background Removed Image", use_column_width=True)
             st.subheader("Result Image Manipulation")
 
