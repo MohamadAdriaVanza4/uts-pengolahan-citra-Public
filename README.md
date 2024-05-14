@@ -1,6 +1,13 @@
-Membuat manipulasi gambar dengan web streamlit
+# UTS Pengolahan Citra
 
-berikut hasil nya : 
-![citra](https://github.com/MohamadAdriaVanza4/uts-pengolahan-citra-Public/assets/115931631/8f07e4e3-fb46-4ecd-8251-8a0732dd41a9)
+### 1. RGB menjadi HSV
+![Screenshot 2024-05-11 191048](https://github.com/Mushi1221/utspengolahancitra/assets/115475520/50664847-e1b0-4f52-ac07-2c524a51b097)
 
-![home · Streamlit and 4 more pages - Personal - Microsoft​ Edge 5_9_2024 11_41_24 PM](https://github.com/adamdwidev/uts-pengolahan-citra/assets/165734684/33863037-6cb8-4938-a98e-26c73c53d13d)
+### 2. Menghitung Histogram
+![Screenshot 2024-05-11 191101](https://github.com/Mushi1221/utspengolahancitra/assets/115475520/97f69523-791d-4a07-a022-0e193b95068a)
+
+### 3. Brightness and Contrass
+![Screenshot 2024-05-11 191123](https://github.com/Mushi1221/utspengolahancitra/assets/115475520/77bf3df3-e2f0-4971-bc8d-de1eda357364)
+
+### 4. Contour
+![Screenshot 2024-05-11 191137](https://github.com/Mushi1221/utspengolahancitra/assets/115475520/be724dc4-50ed-4384-a23a-12c9bc5a020e)
